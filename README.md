@@ -22,5 +22,5 @@
 -   In autonomous driving, U-Net has facilitated real-time semantic segmentation of road scenes, enhancing perception and enabling safer navigation. 
 -   Additionally, in satellite imagery analysis, U-Net has played a pivotal role in land cover classification, urban planning, and environmental monitoring.
 
-# Overall,
+# Overall
 U-Net stands as a powerful and versatile approach for accurate and efficient image segmentation. Its unique architectural design, combined with its ability to handle limited training data and diverse applications, has solidified its position as a state-of-the-art technique in the field of computer vision.
